@@ -1,5 +1,5 @@
 /** 
-  @typedef {import("../../addon-api/content-script/typedef.js").UserscriptUtilities} UserscriptUtilities 
+  @typedef {import("../../addon-api/content-script/typedef.js").UserscriptUtilities} addon 
   @param {UserscriptUtilities} 
  */
 

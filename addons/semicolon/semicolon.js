@@ -1,4 +1,7 @@
-/** @typedef {import("../../addon-api/content-script/typedef.js").UserscriptUtilities} UserscriptUtilities @param {UserscriptUtilities} */
+/** 
+  @typedef {import("../../addon-api/content-script/typedef.js").UserscriptUtilities} UserscriptUtilities 
+  @param {UserscriptUtilities} 
+ */
 
 export default async function ({ addon, global, console }) {
   const semicolon = document.createElement("p");
